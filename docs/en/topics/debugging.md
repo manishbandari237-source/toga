@@ -1,4 +1,4 @@
-# Debugging Your App
+# Debugging your App
 
 Debugging is the process of finding, understanding, and fixing bugs in your code.
 
